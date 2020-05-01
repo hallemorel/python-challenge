@@ -15,7 +15,7 @@ The Python script analyzes the records to calculate the following:
 - The greatest decrease in losses (date and amount) over the entire period
 
 
-PyPoll
+PyPoll:
 For this project, the task was to help a small, rural town modernize its vote-counting process by using the election_data.csv file. 
 This Python script will analyze the votes and calculate the following:
 
